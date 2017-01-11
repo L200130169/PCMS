@@ -1,0 +1,79 @@
+Catatan modul drupal
+
+1. administration menu
+	untuk mengubah tampilan menu pada menu admin
+
+2. coffe
+	untuk menampilkan fitur pencarian konfigurasi dengan cepat dengan menekan ALT+D
+
+3. bootstrap them
+	adalah sebuah css framework yang sudah responsive
+
+4. jquery update
+	adalah modul untuk mengupdate jquery agar animasi dari bootstrap them dapat berjalan
+
+5. ckeditor
+	adalah modul untuk editor konten berbasis gui
+
+6. imce
+	adalah modul untuk mengaktifkan fitur upload file gambar dengan mode gui
+
+7. empty front page
+	adalah modul untuk mengosongkan tampilan di menu utama
+
+8. Special Menu Items
+	adalah modul untuk menghilangkan link atau path suatu tulisan di navbar
+
+9. pathauto
+	adalah modul untuk menggenerate link atau path suatu konten secara otomatis
+
+10. Token
+	adalah modul untuk membuat sebuah pola link yang di tampilkan di address bar browser pengunjung
+
+11. Module filter
+	untuk memfilter tampilan modul yang telah terinstall
+
+12. Views
+	
+13. chaos Tool Suite
+
+14. View Bootstrap
+
+15. Plupload Integration
+	Untuk mengintegrasikan drupal dengan Plupload widget yang berguna untuk mengupload banyak files ke drupal.
+
+16. Devel
+	Untuk menambah fungsi seperti block, page dan functions untuk developer.
+
+17. Image URL Formatter
+	Untuk menambah URL formatter di field.
+
+18. Equal Heights JQuery
+	Untuk menyeimbangkan/menyamakan tinggi dari element di kelas tertentu.
+
+19. Libraries API
+	Libraries API untuk drupal.
+
+20. Display Suite
+	Untuk mengontrol penuh bagaimana content tersebut disajikan.
+
+21. Bootstrap Filegroup
+	Menambah set formatter baru untuk opsi fieldgroup saat konfigurasi view mode display.
+
+22. Field Formatter Settings 
+	Memiliki kemampuan modul lain untuk dengan mudah mengubah pengaturan lapangan formatter bentuk dan ringkasan formatter.
+
+23. Frequently Asked Answer
+	Modul yang mengijinkan admin untuk membentuk sebuah FAQ.
+
+24. Views Bulk Operations
+	Modul ini menambah Views dengan memungkinkan operasi massal akan dieksekusi pada baris yang ditampilkan.
+
+25. Icon API
+	Untuk mengintegrasikan bundle icon di drupal.
+
+26. Font Awesome Icons
+	Font untuk bootstrap drupal.
+
+27. Token Filter 
+	Modul yang sangat sederhana untuk membuat nilai-nilai tanda tersedia sebagai filter input.
